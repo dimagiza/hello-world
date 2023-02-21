@@ -1,4 +1,4 @@
-# These are my steps to become a developer
+# These are my steps to become a developer :smiley:
 - [x] HTML
 - [x] CSS
 - [x] JavaScript
